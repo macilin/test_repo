@@ -1,0 +1,6 @@
+[submodule ".git"]
+	path = .git
+	url = https://github.com/macilin/sub_repo.git
+[submodule "sub_repo"]
+	path = sub_repo
+	url = https://github.com/macilin/sub_repo.git
